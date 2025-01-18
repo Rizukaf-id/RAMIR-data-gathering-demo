@@ -2,7 +2,7 @@
 
 1. Clone this repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Rizukaf-id/RAMIR-data-gathering-demo.git
     ```
 
 2. Install all libraries from `requirements.txt` using pip:
